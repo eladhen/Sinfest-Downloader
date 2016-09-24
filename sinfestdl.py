@@ -1,6 +1,6 @@
 import requests
 from datetime import date, timedelta as td
-print('This program wil download all of the Sinfest comic strips between two given dates')
+print('This program will download all of the Sinfest comic strips between two given dates')
 print('Enter the year of the starting date: yyyy')
 yearD1 = int(input())
 print('Enter the month of the starting date: mm')
